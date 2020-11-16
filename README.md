@@ -88,7 +88,7 @@ To complete this challenge was necessary to follow these rules:
 
 - **`should be able to list the transactions`**: In order for this test to pass, your application must allow an object containing all transactions to be returned together with the balance of income, outcome and total transactions that were created up to the time.
 
-- ** `should not be able to create outcome transaction without a valid balance` **: In order for this test to pass, your application must not allow a` outcome` transaction to exceed the total amount that the user has in cash, returning a response with HTTP 400 code and an error message in the following format: `{error: string}`
+- **`should not be able to create outcome transaction without a valid balance`**: In order for this test to pass, your application must not allow a` outcome` transaction to exceed the total amount that the user has in cash, returning a response with HTTP 400 code and an error message in the following format: `{error: string}`
 
 ## :memo: Licence
 
